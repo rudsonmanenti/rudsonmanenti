@@ -1,5 +1,7 @@
+<!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RudsonManentiValim/RudsonManentiValim/main/banner-github-rudson.png" alt="Banner Rudson Manenti | RM Desenvolvimento Web" width="100%">
+  <img src="https://raw.githubusercontent.com/RudsonManentiValim/RudsonManentiValim/main/banner-github-rudson.png" 
+       alt="Banner Rudson Manenti | RM Desenvolvimento Web" width="100%">
 </p>
 
 
