@@ -1,9 +1,4 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/RudsonManentiValim/RudsonManentiValim/main/banner-github-rudson.png" 
-       alt="Banner Rudson Manenti | RM Desenvolvimento Web" width="100%">
-</p>
-
+<!-- Banner --><img width="1536" height="1024" alt="banner-github-rudson" src="https://github.com/user-attachments/assets/b51da5c6-28e4-4a07-9316-a9289ee605a4" />
 
 # 👋 Eu sou Rudson Manenti Valim  
 
